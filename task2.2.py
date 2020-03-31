@@ -12,4 +12,4 @@ for elem in range (int(len(l_list) / 2)):
     l_list[l], l_list[l + 1] = l_list[l + 1], l_list[l]
     l += 2
 
-print (l_list)
+print(l_list)
